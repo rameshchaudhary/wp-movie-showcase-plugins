@@ -576,5 +576,4 @@ else
 {
      echo "Movie information not available.Please confirm Movie ID";
 }
-
 ?>
